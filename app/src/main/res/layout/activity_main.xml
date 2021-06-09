@@ -88,7 +88,6 @@
         android:backgroundTint="#4CAF50"
         android:text="Entrar"
         android:textSize="15dp"
-
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnSair"
         app:layout_constraintHorizontal_bias="0.0"
